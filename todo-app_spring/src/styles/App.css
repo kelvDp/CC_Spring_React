@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  padding: 15px 30px;
+}
+
+input {
+  margin-left: 2px;
+  margin-right: 8px;
+}
+
+.b {
+  margin-top: 15px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 95%;
+  height: 40px;
+  background-color: #222222;
+}
